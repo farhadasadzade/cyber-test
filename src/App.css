@@ -1,0 +1,26 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.config form {
+  display: flex;
+  flex-direction: column;
+}
+
+.config label {
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form form {
+  display: flex;
+  flex-direction: column;
+}
